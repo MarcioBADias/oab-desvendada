@@ -1,7 +1,12 @@
 const App = () => {
   return (
     <>
-      <h1>Boilerplace + React</h1>
+      <img
+        src="./OAB_Logo_wt.png"
+        alt="Logo Curso OAB Desvendada"
+        style={{ width: 80 }}
+      />
+      <h1>OAB Desvendada</h1>
     </>
   )
 }
