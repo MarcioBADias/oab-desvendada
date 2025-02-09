@@ -32,6 +32,10 @@ O projeto utiliza as seguintes tecnologias:
 ✅ **Formulário de captura de leads** (nome, e-mail, telefone).  
 ✅ **Integração com backend** para armazenamento seguro dos dados.  
 ✅ **Envio automático de confirmação por e-mail** *(via Nodemailer ou outro serviço).*  
-✅ **Dashboard para gerenciamento dos contatos captados** *(futuro desenvolvimento).*  
+✅ **Dashboard para gerenciamento dos contatos captados** *(futuro desenvolvimento).* 
+
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
 ---
